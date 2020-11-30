@@ -1,0 +1,12 @@
+{
+  "name": "sistemaescolarv4",
+  "version": "1.0.0",
+  "description": "sistema escolar",
+  "main": "index.js",
+  "author": "Eliam Pamplona Diaz <eliampamplonadiaz5926@gmail.com>  ",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bulma": "^0.9.1"
+  }
+}
